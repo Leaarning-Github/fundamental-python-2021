@@ -25,3 +25,4 @@ print(f"Driver disekitar sini {data_dari_server_gojek['driver_list']}")
 print(f"Driver #1 {data_dari_server_gojek['driver_list'][0]}")
 print(f"Driver #4 {data_dari_server_gojek['driver_list'][3]}")
 print(f"Driver terdekat berjarak {data_dari_server_gojek['driver_list'][0]['jarak']} meter")
+
