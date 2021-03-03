@@ -25,4 +25,3 @@ for a in anak:
 print('\nSapa semua anak : cara ribet')
 for a in range(0, len(anak)):
     print(f'{a+1}. Hai {anak[a]}')
-
